@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
+This is an organization under the [HighCapable](https://github.com/HighCapable) organization.
 
-**Here are some ideas to get you started:**
+We hope that the tools and dependencies in this organization can bring a better experience to Android developers and help developers quickly implement native Android project development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At the same time, we also welcome capable people to join this organization or contribute your code to this organization, making native Android development no longer difficult.
+
+这是一个 [HighCapable](https://github.com/HighCapable) 旗下的组织。
+
+我们希望这个组织中的工具和依赖库能为 Android 开发者带来更好地体验并帮助开发者快速实现原生 Android 的项目开发。
+
+同时，我们也欢迎有能力的人加入这个组织或为这个组织贡献你的代码，让原生 Android 开发变得不再困难。
