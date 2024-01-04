@@ -9,6 +9,7 @@ At the same time, we also welcome capable people to join this organization or co
 ### Contacts & Discussion & Feedback
 
 - [Telegram Group](https://t.me/BetterAndroid)
+- [Telegram Group (Developer)](https://t.me/HighCapable_Dev)
 
 这是一个 [HighCapable](https://github.com/HighCapable) 旗下的组织。
 
@@ -19,3 +20,5 @@ At the same time, we also welcome capable people to join this organization or co
 ### 联系方式 & 讨论 & 问题反馈
 
 - [Telegram 群组](https://t.me/BetterAndroid)
+- [Telegram 群组 (开发者)](https://t.me/HighCapable_Dev)
+- [QQ 群 (开发者)](https://qm.qq.com/cgi-bin/qm/qr?k=Pnsc5RY6N2mBKFjOLPiYldbAbprAU3V7&jump_from=webapi&authKey=X5EsOVzLXt1dRunge8ryTxDRrh9/IiW1Pua75eDLh9RE3KXE+bwXIYF5cWri/9lf)
